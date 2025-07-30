@@ -1,6 +1,8 @@
 # TODO pass python script to cmake with following arguments
 # excel_name, template_name, output_header_file
 # for the moment we initialize them here
+# TODO this script is too specific; try to extract
+# reusable elements
 
 import pandas   as pd
 import json     as js 
